@@ -27,10 +27,12 @@ There are two categories of users who would access the system viz. â€œTouristsâ€
     <br />
     
     
+   ###### *To run the solution Go to Safari Booking - App Config and Add Your Server Name in "Data Source" and Database Name in "Intial Catalog"*
+   
     
     #### The Project follows 3 layer architecture:
     The Presentation Layer (PL) interacts with the Business Layer (BL) which interacts with the Data Access Layer (DAL) which Insert/Update/Delete/Fetches data from the database and follows the same route i.e. from DAL-BL-PL and shows the output in the Console.
     
-    ![image](https://user-images.githubusercontent.com/42665547/130329187-16ff290e-fd9b-478f-a737-2769d7edb179.png =250x250)
+    ![image](https://user-images.githubusercontent.com/42665547/130329187-16ff290e-fd9b-478f-a737-2769d7edb179.png)
 
     
