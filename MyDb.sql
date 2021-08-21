@@ -180,14 +180,4 @@ end
 
 exec usp_BookingStatus 13
 
-select * from AspNetUsers
-select * from AspNetRoles
-select * from AspNetUserRoles
-
-insert into  AspNetRoles values(NEWID(),'Admin','ADMIN',GETDATE())
-insert into  AspNetRoles values(NEWID(),'Tourist','TOURIST',GETDATE())
-
-insert into AspNetUserRoles values ('15134bca-9630-47bd-9391-bf8e07ce8294','2464CD9A-BDD6-4D9B-9BDB-1CB3678A2EBC')
-insert into AspNetUserRoles values ('e5a51397-8570-4a46-aa87-a929dceb27cf','DB973153-3CCE-4E7E-89FC-A01544677BE5')
-
 
