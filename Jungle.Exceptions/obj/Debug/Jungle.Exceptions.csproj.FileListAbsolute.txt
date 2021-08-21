@@ -1,0 +1,5 @@
+C:\Users\Praveen Trivedi\source\repos\Sprint1Group4\Jungle.Exceptions\bin\Debug\Jungle.Exceptions.dll
+C:\Users\Praveen Trivedi\source\repos\Sprint1Group4\Jungle.Exceptions\bin\Debug\Jungle.Exceptions.pdb
+C:\Users\Praveen Trivedi\source\repos\Sprint1Group4\Jungle.Exceptions\obj\Debug\Jungle.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Trivedi\source\repos\Sprint1Group4\Jungle.Exceptions\obj\Debug\Jungle.Exceptions.dll
+C:\Users\Praveen Trivedi\source\repos\Sprint1Group4\Jungle.Exceptions\obj\Debug\Jungle.Exceptions.pdb

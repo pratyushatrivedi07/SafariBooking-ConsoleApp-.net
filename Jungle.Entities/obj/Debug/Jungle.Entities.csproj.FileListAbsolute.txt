@@ -1,0 +1,5 @@
+C:\Users\Praveen Trivedi\source\repos\Sprint1Group4\Jungle.Entities\bin\Debug\Jungle.Entities.dll
+C:\Users\Praveen Trivedi\source\repos\Sprint1Group4\Jungle.Entities\bin\Debug\Jungle.Entities.pdb
+C:\Users\Praveen Trivedi\source\repos\Sprint1Group4\Jungle.Entities\obj\Debug\Jungle.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Trivedi\source\repos\Sprint1Group4\Jungle.Entities\obj\Debug\Jungle.Entities.dll
+C:\Users\Praveen Trivedi\source\repos\Sprint1Group4\Jungle.Entities\obj\Debug\Jungle.Entities.pdb
