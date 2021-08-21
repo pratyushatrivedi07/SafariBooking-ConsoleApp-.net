@@ -25,3 +25,10 @@ There are two categories of users who would access the system viz. â€œTouristsâ€
     <br />
     c. Add/Modify/Delete Sanctuaries, Safaris, Countries, Gender, VehicleTypes
     <br />
+    
+    
+    
+    ### The Project follows 3 layer architecture:
+    The Presentation Layer (PL) interacts with the Business Layer (BL) which interacts with the Data Access Layer (DAL) which Insert/Update/Delete/Fetches data from the database and follows the same route i.e. from DAL-BL-PL and shows the output in the Console.
+    
+    ![Image of Architecture] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fwhat-is-net-3-tier-architecture%2F&psig=AOvVaw0r6ei1kLvcYSXTaDeAh_kK&ust=1629650562779000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKj9yfXHwvICFQAAAAAdAAAAABAD)
