@@ -27,7 +27,7 @@ There are two categories of users who would access the system viz. â€œTouristsâ€
     <br />
     
     
-   #####* **To run the solution Go to Safari Booking - App Config and Add Your Server Name in "Data Source" and Database Name in "Intial Catalog"** *
+   ##### *To run the solution Go to Safari Booking - App Config and Add Your Server Name in "Data Source" and Database Name in "Intial Catalog"*
    <br />
    ![Screenshot 2021-08-21 223102](https://user-images.githubusercontent.com/42665547/130329479-a6c5a398-7991-4401-8c31-72aaea2f1449.png)
 
