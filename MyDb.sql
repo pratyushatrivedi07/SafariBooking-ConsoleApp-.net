@@ -14,6 +14,7 @@ Create Table Role(
 	Id int identity primary key not null,
 	Name nvarchar(20) not null
 );
+
 select  * from Role
 
 
@@ -25,7 +26,6 @@ Create Table Parks(
 );
 
 select * from Parks
-delete from Parks where ParkId = 102
 
 
 CREATE TABLE  Gate (
@@ -36,6 +36,7 @@ CREATE TABLE  Gate (
 	CONSTRAINT FK_ParkID FOREIGN KEY(ParkId)
 	REFERENCES Parks(ParkId)
 );
+
 select * from Gate
 
 
@@ -77,7 +78,6 @@ Create Table Tourist(
 );
 
 select * from Tourist
-delete from Tourist
 
 
 CREATE TABLE  IdentityProof (
@@ -100,7 +100,7 @@ Create Table Booking(
 );
 
 select * from Booking
-delete from Booking
+
 
 
 --=========================STORED PROCEDURES=========================================
